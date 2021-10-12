@@ -1,0 +1,27 @@
+{
+  "name": "webpack_study_code",
+  "version": "1.0.0",
+  "description": "- 一个用于记录自己Webpack学习进度的仓库，学习平台为b站：https://www.bilibili.com/video/BV1e7411j7T5?p=4\r - 主要内容为webpack4知识并有部分webpack5的知识\r - webpack version : 4.41.6\r - webpack-cli version : 3.3.11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peng-guangchuan/Webpack-study-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peng-guangchuan/Webpack-study-code/issues"
+  },
+  "homepage": "https://github.com/peng-guangchuan/Webpack-study-code#readme",
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
